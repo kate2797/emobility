@@ -3,6 +3,7 @@ This project is intended to provide users with a predictable, personalised, and 
 
   <img src="https://github.com/kate2797/emobility/assets/52212037/5416cb0c-4c51-45de-8e97-6376b0315fbf" height="400" />
   <img src="https://github.com/kate2797/emobility/assets/52212037/ed110274-36c3-4db1-b245-8a7ddfc58ac3" height="400" />
+  <img src="https://github.com/kate2797/emobility/assets/52212037/810ee5bd-73c5-4d8a-8c81-9e59c0803bf4" height="400" />
   <img src="https://github.com/kate2797/emobility/assets/52212037/3fd4f0a4-7f34-4c22-84bf-2084b432cdfd" height="400" />
 
 ## View the Project on Your Physical Device
