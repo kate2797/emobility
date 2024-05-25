@@ -1,5 +1,6 @@
 # Electromobility Tool
-This project is intended to provide users with a predictable, personalised, and optimised charging experience considering the relative lack of public EV charging infrastructure in the UK and certain impracticalities associated with owning an EV.
+
+This project, undertaken for my master's degree at the University of Glasgow, aims to offer users a predictable, personalised, and optimised charging experience. It addresses challenges stemming from the limited public EV charging infrastructure in the UK and practical issues associated with EV ownership.
 
   <img src="https://github.com/kate2797/emobility/assets/52212037/5416cb0c-4c51-45de-8e97-6376b0315fbf" height="400" />
   <img src="https://github.com/kate2797/emobility/assets/52212037/ed110274-36c3-4db1-b245-8a7ddfc58ac3" height="400" />
