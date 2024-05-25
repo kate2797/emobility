@@ -1,9 +1,9 @@
 # Electromobility Tool
 This project is intended to provide users with a predictable, personalised, and optimised charging experience considering the relative lack of public EV charging infrastructure in the UK and certain impracticalities associated with owning an EV.
 
-  <img src="https://github.com/kate2797/emobility/assets/52212037/6a8b19f2-44f3-48d3-8f4a-3b8a1b623d60" height="600" />
-  <img src="https://github.com/kate2797/emobility/assets/52212037/c28638bb-1db2-4bee-9415-50bea83ccbe5" height="600" />
-  <img src="https://github.com/kate2797/emobility/assets/52212037/d4f5b7c3-75b0-4caf-8bde-c5e926f69280" height="600" />
+  <img src="https://github.com/kate2797/emobility/assets/52212037/5416cb0c-4c51-45de-8e97-6376b0315fbf" height="600" />
+  <img src="https://github.com/kate2797/emobility/assets/52212037/ed110274-36c3-4db1-b245-8a7ddfc58ac3" height="600" />
+  <img src="https://github.com/kate2797/emobility/assets/52212037/3fd4f0a4-7f34-4c22-84bf-2084b432cdfd" height="600" />
 
 ## View the Project on Your Physical Device
 Please read the consideration sections for your operating system before viewing the project.
